@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/pitman-s-measure-of-closeness/","title":"Pitman's Measure of Closeness","created":"2025-11-06T10:31:34.756-08:00","updated":"2025-11-06T11:02:42.939-08:00"}
+{"dg-publish":true,"permalink":"/books/pitman-s-measure-of-closeness/","title":"Pitman's Measure of Closeness","created":"2025-11-06T10:31:34.756-08:00","updated":"2025-11-06T11:22:22.391-08:00"}
 ---
 
 
@@ -32,3 +32,4 @@ This book provides a thorough introduction to the methods and known results asso
 
 
 # Link
+https://drive.google.com/file/d/1aACaVMxKSObcsSWMnDw_rR0RTqjrdqMi/view?usp=sharing
