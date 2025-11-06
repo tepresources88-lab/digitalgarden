@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/stock-market-probability/","title":"Stock Market Probability","created":"2025-11-06T11:28:52.899-08:00","updated":"2025-11-06T11:30:03.201-08:00"}
+{"dg-publish":true,"permalink":"/books/stock-market-probability/","title":"Stock Market Probability","created":"2025-11-06T11:28:52.899-08:00","updated":"2025-11-06T11:58:58.369-08:00"}
 ---
 
 

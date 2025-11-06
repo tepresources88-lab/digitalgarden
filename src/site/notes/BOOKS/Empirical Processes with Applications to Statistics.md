@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/empirical-processes-with-applications-to-statistics/","title":"Empirical Processes with Applications to Statistics","created":"2025-11-06T11:19:22.299-08:00","updated":"2025-11-06T11:20:17.910-08:00"}
+{"dg-publish":true,"permalink":"/books/empirical-processes-with-applications-to-statistics/","title":"Empirical Processes with Applications to Statistics","created":"2025-11-06T11:19:22.299-08:00","updated":"2025-11-06T11:59:32.218-08:00"}
 ---
 
 

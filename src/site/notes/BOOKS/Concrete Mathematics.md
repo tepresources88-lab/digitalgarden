@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/concrete-mathematics/","title":"Concrete Mathematics","created":"2025-11-06T10:43:41.891-08:00","updated":"2025-11-06T11:24:20.215-08:00"}
+{"dg-publish":true,"permalink":"/books/concrete-mathematics/","title":"Concrete Mathematics","created":"2025-11-06T10:43:41.891-08:00","updated":"2025-11-06T12:11:32.023-08:00"}
 ---
 
 

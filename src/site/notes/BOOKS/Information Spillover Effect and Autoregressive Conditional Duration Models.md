@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/information-spillover-effect-and-autoregressive-conditional-duration-models/","title":"Information Spillover Effect and Autoregressive Conditional Duration Models","created":"2025-11-06T10:56:10.047-08:00","updated":"2025-11-06T11:02:46.445-08:00"}
+{"dg-publish":true,"permalink":"/books/information-spillover-effect-and-autoregressive-conditional-duration-models/","title":"Information Spillover Effect and Autoregressive Conditional Duration Models","created":"2025-11-06T10:56:10.047-08:00","updated":"2025-11-06T11:59:24.936-08:00"}
 ---
 
 
