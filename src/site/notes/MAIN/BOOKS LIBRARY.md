@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main/books-library/","created":"2025-11-05T19:06:42.802-08:00","updated":"2025-11-06T11:17:46.536-08:00"}
+{"dg-publish":true,"permalink":"/main/books-library/","created":"2025-11-05T19:06:42.802-08:00","updated":"2025-11-06T15:45:56.415-08:00"}
 ---
 
  1. **[[MAIN/BOOKS LIBRARAY TOC/Foundations of Mathematics & Statistics\|Foundations of Mathematics & Statistics]]**
@@ -12,7 +12,7 @@
 
 
 
-3. **[[Quantitative Finance\|Quantitative Finance]]**
+3. **[[MAIN/BOOKS LIBRARAY TOC/Quantitative Finance and Trading\|Quantitative Finance and Trading]]**
 
 
 4. **[[MAIN/BOOKS LIBRARAY TOC/Econometrics & Time Series Analysis\|Econometrics & Time Series Analysis]]**
